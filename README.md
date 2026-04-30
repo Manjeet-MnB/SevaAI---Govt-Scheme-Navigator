@@ -42,7 +42,7 @@ https://drive.google.com/file/d/15bQoDO7DA9X2sUPdwnb7N0n_8225ebgf/view?usp=shari
 | Layer | Technology | Cost |
 |---|---|---|
 | LLM | OpenAI GPT-4o | Paid (your key) |
-| Embeddings | text-embedding-3-small | ~Free |
+| Embeddings | text-embedding-3-small | Paid (your key) |
 | RAG Framework | LangChain (LCEL) | Free |
 | Vector DB | FAISS (local) | Free |
 | Frontend | Streamlit | Free |
