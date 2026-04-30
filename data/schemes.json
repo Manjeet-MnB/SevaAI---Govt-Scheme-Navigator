@@ -1,0 +1,401 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "category": ["farmer", "agriculture"],
+    "eligibility": {
+      "occupation": ["farmer"],
+      "land_holding": "Small and marginal farmers with cultivable land",
+      "income": null,
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Farmer must own agricultural land. Institutional landholders, government employees, income taxpayers excluded."
+    },
+    "benefits": "Rs. 6000 per year in 3 equal installments of Rs. 2000 directly into bank account",
+    "documents_needed": ["Aadhaar card", "Bank account details", "Land ownership documents", "Mobile number"],
+    "how_to_apply": [
+      "Visit pmkisan.gov.in or nearest Common Service Centre (CSC)",
+      "Click on 'New Farmer Registration'",
+      "Enter Aadhaar number and state",
+      "Fill in land and bank details",
+      "Submit and note registration number",
+      "Local Patwari/Revenue Officer will verify land records"
+    ],
+    "url": "https://pmkisan.gov.in",
+    "tags": "farmer income support cash transfer agriculture kisan"
+  },
+  {
+    "id": "pmjdy",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "ministry": "Ministry of Finance",
+    "category": ["banking", "financial inclusion"],
+    "eligibility": {
+      "occupation": ["any"],
+      "income": null,
+      "age_min": 10,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Any Indian citizen without a bank account. Minors above 10 years can open account."
+    },
+    "benefits": "Zero balance bank account, RuPay debit card, Rs. 2 lakh accident insurance, Rs. 30,000 life insurance, overdraft facility up to Rs. 10,000",
+    "documents_needed": ["Aadhaar card or any KYC document", "Passport-size photograph"],
+    "how_to_apply": [
+      "Visit any nationalized bank branch or Post Office",
+      "Ask for PMJDY account opening form",
+      "Fill form with personal details",
+      "Submit Aadhaar card as KYC",
+      "Account opens immediately with zero balance",
+      "RuPay card issued within 10 days"
+    ],
+    "url": "https://pmjdy.gov.in",
+    "tags": "bank account zero balance financial inclusion insurance overdraft rupay"
+  },
+  {
+    "id": "pmay-gramin",
+    "name": "Pradhan Mantri Awas Yojana – Gramin (PMAY-G)",
+    "ministry": "Ministry of Rural Development",
+    "category": ["housing", "rural"],
+    "eligibility": {
+      "occupation": ["any"],
+      "income": "Below Poverty Line",
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Rural households listed in SECC 2011 data without pucca house. Priority to SC/ST, minorities, disabled."
+    },
+    "benefits": "Rs. 1.20 lakh (plains) or Rs. 1.30 lakh (hilly/difficult areas) for construction of pucca house. 90-95 days MGNREGS wage support.",
+    "documents_needed": ["Aadhaar card", "BPL/SECC listing proof", "Bank account", "Land documents"],
+    "how_to_apply": [
+      "Check if your name is in SECC 2011 beneficiary list at pmayg.nic.in",
+      "Visit Gram Panchayat office if eligible",
+      "Gram Sabha selects and verifies beneficiaries",
+      "District Programme Coordinator approves",
+      "Funds transferred in installments linked to construction progress",
+      "Upload geo-tagged photos at each stage via AwaasSoft app"
+    ],
+    "url": "https://pmayg.nic.in",
+    "tags": "housing rural pucca house BPL construction subsidy gramin awas"
+  },
+  {
+    "id": "pmay-urban",
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "category": ["housing", "urban"],
+    "eligibility": {
+      "occupation": ["any"],
+      "income": "EWS up to Rs.3L, LIG Rs.3-6L, MIG-I Rs.6-12L, MIG-II Rs.12-18L annual income",
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Must not own a pucca house anywhere in India. Female co-ownership required for EWS/LIG."
+    },
+    "benefits": "Credit Linked Subsidy up to Rs. 2.67 lakh on home loan. Interest subsidy 3-6.5% depending on income slab.",
+    "documents_needed": ["Aadhaar card", "Income certificate", "Property documents", "Home loan sanction letter"],
+    "how_to_apply": [
+      "Visit pmaymis.gov.in to check eligibility",
+      "Apply through bank/housing finance company taking home loan",
+      "Submit application with income and property documents",
+      "Bank verifies and submits to National Housing Bank/HUDCO",
+      "Subsidy credited directly to loan account"
+    ],
+    "url": "https://pmaymis.gov.in",
+    "tags": "housing urban subsidy home loan interest credit linked EWS LIG MIG first home"
+  },
+  {
+    "id": "mudra-yojana",
+    "name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "ministry": "Ministry of Finance",
+    "category": ["business", "entrepreneurship", "loan"],
+    "eligibility": {
+      "occupation": ["small business owner", "self employed", "entrepreneur", "artisan", "trader"],
+      "income": null,
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Non-farm income generating activities. No collateral required. For micro and small businesses."
+    },
+    "benefits": "Shishu: loan up to Rs. 50,000 | Kishor: Rs. 50,000 to Rs. 5 lakh | Tarun: Rs. 5 lakh to Rs. 10 lakh. No collateral. Low interest rates.",
+    "documents_needed": ["Aadhaar card", "PAN card", "Business address proof", "Bank statements (6 months)", "Business plan/quotation"],
+    "how_to_apply": [
+      "Visit any bank, MFI, or NBFC offering MUDRA loans",
+      "Fill MUDRA loan application form",
+      "Submit KYC and business documents",
+      "Bank assesses business viability",
+      "Loan sanctioned within 7-10 working days",
+      "Repayment tenure 3-5 years"
+    ],
+    "url": "https://mudra.org.in",
+    "tags": "business loan entrepreneur startup small business self employed no collateral mudra shishu kishor tarun"
+  },
+  {
+    "id": "sc-post-matric-scholarship",
+    "name": "Post-Matric Scholarship for SC Students",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "category": ["education", "scholarship"],
+    "eligibility": {
+      "occupation": ["student"],
+      "income": "Family income below Rs. 2.5 lakh per year",
+      "age_min": 15,
+      "age_max": null,
+      "caste": ["sc"],
+      "states": "all",
+      "notes": "SC students studying in Class 11 and above. Day scholars and hostellers both eligible."
+    },
+    "benefits": "Maintenance allowance Rs. 380-1200/month (depending on course level), course fees reimbursement, study tour charges, thesis printing charges",
+    "documents_needed": ["Caste certificate", "Income certificate", "Previous year marksheet", "Aadhaar card", "Bank account", "Admission fee receipt"],
+    "how_to_apply": [
+      "Visit scholarships.gov.in (National Scholarship Portal)",
+      "Register with Aadhaar and mobile number",
+      "Select 'Post Matric Scholarship for SC' scheme",
+      "Fill application with academic and income details",
+      "Upload scanned documents",
+      "Institution verifies and forwards to district officer",
+      "Scholarship credited to bank account"
+    ],
+    "url": "https://scholarships.gov.in",
+    "tags": "SC scholarship education post matric class 11 12 college university maintenance allowance"
+  },
+  {
+    "id": "st-scholarship",
+    "name": "Post-Matric Scholarship for ST Students",
+    "ministry": "Ministry of Tribal Affairs",
+    "category": ["education", "scholarship"],
+    "eligibility": {
+      "occupation": ["student"],
+      "income": "Family income below Rs. 2.5 lakh per year",
+      "age_min": 15,
+      "age_max": null,
+      "caste": ["st"],
+      "states": "all",
+      "notes": "ST students studying in Class 11 and above including professional courses."
+    },
+    "benefits": "Maintenance allowance, tuition fees, other academic charges covered. Higher rates for professional courses like MBBS, engineering.",
+    "documents_needed": ["Tribe certificate", "Income certificate", "Marksheet", "Aadhaar", "Bank account", "Fee receipts"],
+    "how_to_apply": [
+      "Go to scholarships.gov.in",
+      "Register and select ST Post-Matric Scholarship",
+      "Fill form and upload tribe and income certificate",
+      "Submit before state deadline (usually October-November)",
+      "Institution verifies enrollment"
+    ],
+    "url": "https://scholarships.gov.in",
+    "tags": "ST tribal scholarship education post matric professional courses maintenance"
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister Employment Generation Programme (PMEGP)",
+    "ministry": "Ministry of MSME",
+    "category": ["business", "employment", "entrepreneurship"],
+    "eligibility": {
+      "occupation": ["unemployed", "self employed", "entrepreneur"],
+      "income": null,
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "8th pass for projects above Rs. 10 lakh in manufacturing. Preference to SC/ST/women/minorities/ex-servicemen/differently abled. Existing units not eligible."
+    },
+    "benefits": "Subsidy 15-35% of project cost (up to Rs. 25 lakh manufacturing, Rs. 10 lakh service). Bank loan for remainder. SC/ST/women get 35% subsidy in rural areas.",
+    "documents_needed": ["Aadhaar", "PAN", "8th/10th marksheet", "Caste certificate if applicable", "Project report", "Bank account"],
+    "how_to_apply": [
+      "Apply online at kviconline.gov.in/pmegpeportal",
+      "Select KVIC, KVIB, or DIC as implementing agency",
+      "Submit detailed project report",
+      "Appear for interview at KVIC/KVIB/DIC office",
+      "Bank appraises the project",
+      "Loan sanctioned; subsidy released after 3 years lock-in"
+    ],
+    "url": "https://kviconline.gov.in/pmegpeportal",
+    "tags": "self employment business startup loan subsidy MSME manufacturing service KVIC"
+  },
+  {
+    "id": "nsp-obc",
+    "name": "Post-Matric Scholarship for OBC Students",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "category": ["education", "scholarship"],
+    "eligibility": {
+      "occupation": ["student"],
+      "income": "Family income below Rs. 1.5 lakh per year",
+      "age_min": 15,
+      "age_max": null,
+      "caste": ["obc"],
+      "states": "all",
+      "notes": "OBC students in Class 11 and above. Studying in recognized institutions."
+    },
+    "benefits": "Maintenance allowance Rs. 256-1000/month, reimbursement of compulsory non-refundable fees",
+    "documents_needed": ["OBC certificate", "Income certificate", "Marksheet", "Aadhaar", "Bank account"],
+    "how_to_apply": [
+      "Register at scholarships.gov.in",
+      "Select OBC Post-Matric Scholarship",
+      "Fill and submit with supporting documents",
+      "State government disburses funds"
+    ],
+    "url": "https://scholarships.gov.in",
+    "tags": "OBC scholarship education post matric maintenance allowance fees"
+  },
+  {
+    "id": "pmsby",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "ministry": "Ministry of Finance",
+    "category": ["insurance"],
+    "eligibility": {
+      "occupation": ["any"],
+      "income": null,
+      "age_min": 18,
+      "age_max": 70,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Must have a savings bank account. Auto-debits Rs. 20/year premium."
+    },
+    "benefits": "Rs. 2 lakh on accidental death or permanent total disability. Rs. 1 lakh on permanent partial disability. Premium only Rs. 20/year.",
+    "documents_needed": ["Aadhaar card", "Bank account (savings)"],
+    "how_to_apply": [
+      "Visit your bank branch or net banking portal",
+      "Enroll for PMSBY scheme",
+      "Give auto-debit consent for Rs. 20/year",
+      "Coverage starts immediately",
+      "Renews annually on June 1st"
+    ],
+    "url": "https://jansuraksha.gov.in",
+    "tags": "accident insurance cheap affordable Rs 20 disability death cover bank"
+  },
+  {
+    "id": "pmjjby",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "ministry": "Ministry of Finance",
+    "category": ["insurance", "life insurance"],
+    "eligibility": {
+      "occupation": ["any"],
+      "income": null,
+      "age_min": 18,
+      "age_max": 50,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Must have savings bank account with auto-debit consent."
+    },
+    "benefits": "Rs. 2 lakh life insurance cover for any cause of death. Premium only Rs. 436/year.",
+    "documents_needed": ["Aadhaar card", "Bank savings account"],
+    "how_to_apply": [
+      "Visit bank branch or use net banking",
+      "Enroll in PMJJBY",
+      "Give consent for Rs. 436/year auto-debit",
+      "Coverage from June 1 to May 31 each year"
+    ],
+    "url": "https://jansuraksha.gov.in",
+    "tags": "life insurance death cover affordable Rs 436 annual bank low cost"
+  },
+  {
+    "id": "nrega-mgnregs",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+    "ministry": "Ministry of Rural Development",
+    "category": ["employment", "rural", "wage"],
+    "eligibility": {
+      "occupation": ["any", "rural worker", "labourer"],
+      "income": null,
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Adult members of rural households willing to do unskilled manual work. Must apply for Job Card from Gram Panchayat."
+    },
+    "benefits": "Guaranteed 100 days of wage employment per year per household. Current wage Rs. 200-350/day depending on state. Unemployment allowance if work not provided within 15 days.",
+    "documents_needed": ["Aadhaar card", "Residence proof (rural area)", "Bank/Post Office account", "Photograph"],
+    "how_to_apply": [
+      "Visit Gram Panchayat office",
+      "Submit application for Job Card with family details",
+      "Job Card issued within 15 days",
+      "Apply for work at Gram Panchayat when needed",
+      "Work must be provided within 15 days of demand",
+      "Wages paid within 15 days of work completion to bank account"
+    ],
+    "url": "https://nrega.nic.in",
+    "tags": "employment rural wages 100 days labour unskilled work NREGA job card gram panchayat"
+  },
+  {
+    "id": "skill-india-pmkvy",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "category": ["skill", "training", "employment"],
+    "eligibility": {
+      "occupation": ["unemployed", "school dropout", "student", "any"],
+      "income": null,
+      "age_min": 15,
+      "age_max": null,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Indian nationals. Priority to school/college dropouts and unemployed youth."
+    },
+    "benefits": "Free skill training in 300+ job roles (IT, construction, beauty, healthcare, retail etc.). Rs. 500-1500 reward on certification. Placement assistance. Training completely free.",
+    "documents_needed": ["Aadhaar card", "Educational qualification proof", "Bank account"],
+    "how_to_apply": [
+      "Visit skillindia.gov.in or pmkvyofficial.org",
+      "Find training center near you",
+      "Register online or walk into nearest Skill India center",
+      "Choose a job role/course",
+      "Complete training (typically 3-6 months)",
+      "Appear for assessment by SSC",
+      "Receive skill certificate recognized by industry"
+    ],
+    "url": "https://pmkvyofficial.org",
+    "tags": "skill training free certificate employment job IT beauty construction healthcare PMKVY youth"
+  },
+  {
+    "id": "stand-up-india",
+    "name": "Stand-Up India Scheme",
+    "ministry": "Ministry of Finance",
+    "category": ["business", "loan", "entrepreneurship"],
+    "eligibility": {
+      "occupation": ["entrepreneur", "self employed", "business owner"],
+      "income": null,
+      "age_min": 18,
+      "age_max": null,
+      "caste": ["sc", "st"],
+      "states": "all",
+      "notes": "SC/ST borrowers and women entrepreneurs. For greenfield enterprises (first-time). At least one SC/ST or woman borrower per bank branch."
+    },
+    "benefits": "Bank loan between Rs. 10 lakh to Rs. 1 crore for setting up greenfield enterprise. Covers 75% of project cost. Composite loan (term loan + working capital).",
+    "documents_needed": ["Aadhaar", "PAN", "Caste certificate (SC/ST)", "Project report", "Last 3 years ITR", "Bank statement"],
+    "how_to_apply": [
+      "Visit standupmitra.in",
+      "Register and fill loan application",
+      "Select preferred bank branch",
+      "Bank appraises the project",
+      "Loan sanctioned for eligible greenfield projects"
+    ],
+    "url": "https://standupmitra.in",
+    "tags": "SC ST women entrepreneur business loan startup greenfield new enterprise 1 crore"
+  },
+  {
+    "id": "apy",
+    "name": "Atal Pension Yojana (APY)",
+    "ministry": "Ministry of Finance",
+    "category": ["pension", "retirement"],
+    "eligibility": {
+      "occupation": ["any", "unorganized sector", "self employed"],
+      "income": null,
+      "age_min": 18,
+      "age_max": 40,
+      "caste": ["general", "sc", "st", "obc"],
+      "states": "all",
+      "notes": "Indian citizens aged 18-40. Must have savings bank account. Not covered under statutory social security scheme."
+    },
+    "benefits": "Guaranteed pension of Rs. 1000-5000/month after age 60. Contribution Rs. 42-1454/month depending on age and pension amount chosen. Government co-contributes 50% for first 5 years (for eligible).",
+    "documents_needed": ["Aadhaar card", "Savings bank account", "Mobile number"],
+    "how_to_apply": [
+      "Visit any bank branch with savings account",
+      "Fill APY registration form",
+      "Choose pension amount (1000/2000/3000/4000/5000)",
+      "Set up auto-debit from savings account",
+      "Can also apply via net banking or mobile banking app"
+    ],
+    "url": "https://npscra.nsdl.co.in",
+    "tags": "pension retirement savings unorganized sector guaranteed monthly pension age 60"
+  }
+]
