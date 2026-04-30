@@ -18,6 +18,11 @@
 - 🖥️ **Streamlit UI** — Clean, interactive interface with tabs and sidebar
 
 ---
+<img width="2559" height="1341" alt="1" src="https://github.com/user-attachments/assets/f7530a94-482d-495d-81b8-b57c0d13cdaf" />
+<img width="2559" height="1341" alt="2" src="https://github.com/user-attachments/assets/e44f8675-46b5-4786-aa68-5fdfd6a21c8e" />
+<img width="2557" height="1341" alt="3" src="https://github.com/user-attachments/assets/502b538f-93d1-46d8-8182-b016aa3d10b7" />
+<img width="2559" height="1342" alt="4" src="https://github.com/user-attachments/assets/e5a028ae-cd46-4c5c-9105-dbbe7fb307fc" />
+<img width="2559" height="1344" alt="5" src="https://github.com/user-attachments/assets/1dae0733-4b0e-45dd-98f3-c2920e246a3c" />
 
 ## 🛠️ Tech Stack
 
